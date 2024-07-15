@@ -6,7 +6,7 @@ description: DevOps Freelancer
 
 show_downloads: true
 
-theme: jekyll-theme-minimal 
+theme: jekyll-theme-architect 
 
 plugins:
   - tuxito
