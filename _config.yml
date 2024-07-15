@@ -1,0 +1,15 @@
+title: Tuxito BV
+
+logo: logo.png 
+
+description: DevOps Freelancer
+
+show_downloads: true
+
+theme: jekyll-theme-minimal 
+
+plugins:
+  - tuxito
+
+email: koen@tuxito.be
+
